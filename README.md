@@ -1,6 +1,6 @@
 # My BioMetrics & HealthData Hub notebooks
 
-Hello! I am FAISAL IBRAHIM. This repository holds my work for the course **Python for Health Data Science and Machine Learning**.
+Hello! I am FAISAL IBRAHIM ADAM. This repository holds my work for the course **Python for Health Data Science and Machine Learning**.
 
 ## My progress
 
